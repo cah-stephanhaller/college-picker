@@ -1,0 +1,36 @@
+.search-wizard-result-page {
+  .thumbnail {
+    min-width: 0%;
+    min-height: 0%;
+  }
+  .icon-item {
+    font-size: 3vh;
+  }
+  p {
+    display: inline-block;
+  }
+  .detail-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .detail-item {
+    flex: 1;
+  }
+  .title {
+    max-width: 90%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;    
+  }
+  .circle-right {
+    float: right;
+    font-size: 3vh;
+    margin-top: -1vh;    
+  }
+  .chevron-style-override {
+    float: left;
+    padding-left: 3vw;
+    font-size: 4vh;    
+  }  
+}

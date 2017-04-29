@@ -1,0 +1,48 @@
+.search-wizard-page {
+  .toolbar-background {
+    background: lightblue;
+    border-color: transparent;
+  }
+  .title-override {
+    text-align: center;
+    margin-left: -3vw;    
+  }  
+  .slide-zoom {
+    height: 100%;
+  }
+  .slide-title {
+    margin-top: 4vh;
+  }
+  .skip-btn {
+    padding-right: 5%;
+    padding-top: 2%;
+  }
+  .or-divider {
+    text-align: center;
+    font-size: 2vh;
+    padding-top: 0vh;
+    padding-bottom: 0vh;
+  }
+  .spacer-xsmall {
+    height: 1vh;
+    min-height: 1vh;    
+  }  
+  .spacer-small {
+    height: 2vh;
+    min-height: 2vh;    
+  }
+  .spacer {
+    height: 8vh;
+    min-height: 8vh;    
+  }
+  .ion-list {
+    padding-top: 5%;
+  }
+  .chevron-style-override {
+    float: left;
+    padding-left: 3vw;
+    font-size: 4vh;    
+  }
+}
+
+
